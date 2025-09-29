@@ -1,1 +1,1 @@
-new file
+This is a new file on the feature1 branch
